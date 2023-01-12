@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'dd9f79c7-4435-4f2c-9b9e-3e79896165fa'
 
   # Web app name
-  webAppName: 'amp'
+  webAppName: 'amdevsec'
 
   # Environment name
   environmentName: 'dev'
